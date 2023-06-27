@@ -8,16 +8,16 @@ The annual churn rate in this industry typically ranges between 15% to 25%, high
 To effectively combat customer churn, telecom companies need accurate predictive models that can identify customers at high risk of churn. By analyzing customer-level data, such models can be developed and used to identify key indicators of churn.
 
 The process of churn usually undergoes three phases:
-
 The satisfaction phase: During this phase, customers generally exhibit contentment with the provided services and behave in line with their usual patterns.
 
 The trigger phase: In this phase, customer experiences and satisfaction levels start to fluctuate. Triggers for churn can include enticing offers from competitors, unjust charges, deteriorating service quality, and other factors. Customer behavior during this phase often deviates from their satisfaction months. Identifying customers at a high risk of churn during this period is critical, as timely interventions can be implemented, such as matching competitors' offers or improving service quality. The prediction of the likelihood of churn using the best model is done in this phase.
 
-The churn phase: This phase represents the point at which a customer officially churns.
+The churn phase: This phase represents the point at which a customer officially seizes to patronize the company. Such customer is said to have churn. Most times, the churn customer would switch to a competitor company and might remain with them.
 
-By comprehending the customer lifecycle and effectively identifying customers at risk of churn during the trigger phase, telecom companies can proactively implement targeted retention strategies. These strategies encompass efforts to match competitors' offerings, enhance service quality, and create personalized experiences. Such proactive measures hold the potential to bolster customer satisfaction, reduce churn rates, and cement long-lasting relationships with valuable customers.
+By comprehending the customer lifecycle and effectively identifying customers at risk of churn during the trigger phase, telecom companies can proactively implement targeted retention strategies. These strategies include efforts to match competitors' offerings, enhance service quality, and create personalized experiences. Such proactive measures hold the potential to bolster customer satisfaction, reduce churn rates, and cement long-lasting relationships with valuable customers.
 
-In this project scenario, I am the Data Scientist of a prominent telecom firm called Vodafone Corporation. I will analyze the available customer-level data of the comapany and build eight (8) different machine learning models with the data. These models will be tuned for optimal performance and the best model can be used to predict the likelihood of churn. I will work towards identifying the key indicators of churn, and recommend solutions to help the company achieve a decline in churn rate, high customer satisfaction and increase in customer retention/longevity.
+Project Scenario
+For this project, I am the Data Scientist of a prominent telecom firm called Vodafone Corporation. I will analyze the available customer-level data of the company and build eight (8) different machine learning models with the data. These models will be tuned for optimal performance and the best model can be used to predict the likelihood of churn. I will identify the key indicators of churn, and recommend solutions to help the company achieve a decline in churn rate, high customer satisfaction and increase in customer retention/longevity.
 
 Hypothesis
 Null Hypothesis: There is no relationship between the monthly charges and the churn of customers.
@@ -37,4 +37,4 @@ Analytical Questions
 11. How does the length of customers' contract affect their likelihood of churn?
 12. How does the length of customers' tenure affect their likelihood of churn?
 
-This project was done with the aid of the Jupyter Notebook in this repository and it bears all the codes and procedures used to achieve success. The data for this project was obtained from different sources and saved in this repository. The entire analytical and modelling processes are well explained in this Medium publication: https://eberedavid.medium.com/telco-churn-analysis-d463035fcbb5
+This project was done with the aid of the Jupyter Notebook in this repository and it bears all the codes and procedures used to achieve success. The datasets for this project were collected from different sources and were also saved in this repository. The entire analytical and modelling processes are well explained in my Medium publication: https://eberedavid.medium.com/telco-churn-analysis-d463035fcbb5
