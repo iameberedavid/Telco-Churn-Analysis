@@ -3,6 +3,8 @@
 ## Technologies
 
 [Python](https://img.shields.io/badge/Python-Green)
+[Data Analysis](https://img.shields.io/badge/Data-Analysis-Green)
+[Machine Learning](https://img.shields.io/badge/Machine-Learning-Green)
 
 ## Business Understanding
 
