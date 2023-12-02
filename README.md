@@ -23,7 +23,7 @@ For this project, I am the Data Scientist of a prominent telecom firm called Vod
 Null Hypothesis: There is no relationship between the monthly charges and the churn of customers.
 Alternate Hypothesis: There is a relationship between the monthly charges and the churn of customers.
 
-Analytical Questions
+## Analytical Questions
 1. What is the overall churn rate of the telecommunication company?
 2. What is the average monthly charges to churn customers compared to non-churn customers?
 3. What percentage of the top 100 most charged customers churned?
