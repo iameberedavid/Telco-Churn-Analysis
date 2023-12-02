@@ -1,6 +1,6 @@
 ## TELCO CHURN ANALYSIS
 
-## 
+## Technologies
 
 ## Business Understanding
 
