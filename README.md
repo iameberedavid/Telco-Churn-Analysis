@@ -1,6 +1,6 @@
 TELCO CHURN ANALYSIS
 
-Business Understanding
+#Business Understanding
 In the fiercely competitive telecommunications industry, customers have the liberty to choose from a multitude of network providers, making customer retention a critical concern. Churn, the phenomenon of customers switching from one operator to another, poses significant challenges for telecom companies.
 
 The annual churn rate in this industry typically ranges between 15% to 25%, highlighting the need to prioritize customer retention. To thrive in this competitive market, telecom companies recognize the strategic importance of retaining high-value customers. Therefore, the reduction of churn rate is a top business priority for these companies.
