@@ -4,7 +4,7 @@
 
 [Python](https://img.shields.io/badge/Python-Green)
 [Data Analysis](https://img.shields.io/badge/Data-Analysis-Green)
-[Machine Learning](https://img.shields.io/badge/Machine-Learning-Green)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-Green)
 ![MIT](https://img.shields.io/badge/MIT-License-blue)
 
 ## Business Understanding
