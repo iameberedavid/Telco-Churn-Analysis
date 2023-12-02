@@ -2,6 +2,8 @@
 
 ## Technologies
 
+[Python](https://img.shields.io/badge/Python-Green)
+
 ## Business Understanding
 
 In the fiercely competitive telecommunications industry, customers have the liberty to choose from a multitude of network providers, making customer retention a critical concern. Churn, the phenomenon of customers switching from one operator to another, poses significant challenges for telecom companies.
