@@ -10,7 +10,7 @@ To effectively combat customer churn, telecom companies need accurate predictive
 The process of churn usually undergoes three phases:
 **The satisfaction phase:** During this phase, customers generally exhibit contentment with the provided services and behave in line with their usual patterns.
 
-The trigger phase: In this phase, customer experiences and satisfaction levels start to fluctuate. Triggers for churn can include enticing offers from competitors, unjust charges, deteriorating service quality, and other factors. Customer behavior during this phase often deviates from their satisfaction months. Identifying customers at a high risk of churn during this period is critical, as timely interventions can be implemented, such as matching competitors' offers or improving service quality. The prediction of the likelihood of churn using the best model is done in this phase.
+**The trigger phase: In this phase, customer experiences and satisfaction levels start to fluctuate. Triggers for churn can include enticing offers from competitors, unjust charges, deteriorating service quality, and other factors. Customer behavior during this phase often deviates from their satisfaction months. Identifying customers at a high risk of churn during this period is critical, as timely interventions can be implemented, such as matching competitors' offers or improving service quality. The prediction of the likelihood of churn using the best model is done in this phase.
 
 The churn phase: This phase represents the point at which a customer officially seizes to patronize the company. Such customer is said to have churn. Most times, the churn customer would switch to a competitor company and might remain with them.
 
