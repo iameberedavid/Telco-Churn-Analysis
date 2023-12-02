@@ -12,7 +12,7 @@ The process of churn usually undergoes three phases:
 
 **The trigger phase:** In this phase, customer experiences and satisfaction levels start to fluctuate. Triggers for churn can include enticing offers from competitors, unjust charges, deteriorating service quality, and other factors. Customer behavior during this phase often deviates from their satisfaction months. Identifying customers at a high risk of churn during this period is critical, as timely interventions can be implemented, such as matching competitors' offers or improving service quality. The prediction of the likelihood of churn using the best model is done in this phase.
 
-The churn phase:** This phase represents the point at which a customer officially seizes to patronize the company. Such customer is said to have churn. Most times, the churn customer would switch to a competitor company and might remain with them.
+**The churn phase:** This phase represents the point at which a customer officially seizes to patronize the company. Such customer is said to have churn. Most times, the churn customer would switch to a competitor company and might remain with them.
 
 By comprehending the customer lifecycle and effectively identifying customers at risk of churn during the trigger phase, telecom companies can proactively implement targeted retention strategies. These strategies include efforts to match competitors' offerings, enhance service quality, and create personalized experiences. Such proactive measures hold the potential to bolster customer satisfaction, reduce churn rates, and cement long-lasting relationships with valuable customers.
 
