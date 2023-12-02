@@ -7,7 +7,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-Green)
 ![MIT](https://img.shields.io/badge/MIT-License-blue)
 
-## Business Understanding
+## Business Understandin
 
 In the fiercely competitive telecommunications industry, customers have the liberty to choose from a multitude of network providers, making customer retention a critical concern. Churn, the phenomenon of customers switching from one operator to another, poses significant challenges for telecom companies.
 
