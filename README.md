@@ -1,6 +1,7 @@
 ## TELCO CHURN ANALYSIS
 
 ## Business Understanding
+
 In the fiercely competitive telecommunications industry, customers have the liberty to choose from a multitude of network providers, making customer retention a critical concern. Churn, the phenomenon of customers switching from one operator to another, poses significant challenges for telecom companies.
 
 The annual churn rate in this industry typically ranges between 15% to 25%, highlighting the need to prioritize customer retention. To thrive in this competitive market, telecom companies recognize the strategic importance of retaining high-value customers. Therefore, the reduction of churn rate is a top business priority for these companies.
@@ -17,13 +18,16 @@ The process of churn usually undergoes three phases:
 By comprehending the customer lifecycle and effectively identifying customers at risk of churn during the trigger phase, telecom companies can proactively implement targeted retention strategies. These strategies include efforts to match competitors' offerings, enhance service quality, and create personalized experiences. Such proactive measures hold the potential to bolster customer satisfaction, reduce churn rates, and cement long-lasting relationships with valuable customers.
 
 ## Project Scenario
+
 For this project, I am the Data Scientist of a prominent telecom firm called Vodafone Corporation. I will analyze the available customer-level data of the company and build eight (8) different machine learning models with the data. These models will be tuned for optimal performance and the best model can be used to predict the likelihood of churn. I will identify the key indicators of churn, and recommend solutions to help the company achieve a decline in churn rate, high customer satisfaction and increase in customer retention/longevity.
 
 ## Hypothesis
+
 Null Hypothesis: There is no relationship between the monthly charges and the churn of customers.
 Alternate Hypothesis: There is a relationship between the monthly charges and the churn of customers.
 
 ## Analytical Questions
+
 1. What is the overall churn rate of the telecommunication company?
 2. What is the average monthly charges to churn customers compared to non-churn customers?
 3. What percentage of the top 100 most charged customers churned?
