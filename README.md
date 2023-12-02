@@ -24,7 +24,7 @@ The process of churn usually undergoes three phases:
 
 By comprehending the customer lifecycle and effectively identifying customers at risk of churn during the trigger phase, telecom companies can proactively implement targeted retention strategies. These strategies include efforts to match competitors' offerings, enhance service quality, and create personalized experiences. Such proactive measures hold the potential to bolster customer satisfaction, reduce churn rates, and cement long-lasting relationships with valuable customers.
 
-## Project Sc
+## Project Scen
 
 For this project, I am the Data Scientist of a prominent telecom firm called Vodafone Corporation. I will analyze the available customer-level data of the company and build eight (8) different machine learning models with the data. These models will be tuned for optimal performance and the best model can be used to predict the likelihood of churn. I will identify the key indicators of churn, and recommend solutions to help the company achieve a decline in churn rate, high customer satisfaction and increase in customer retention/longevity.
 
