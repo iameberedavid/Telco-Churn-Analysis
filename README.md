@@ -41,4 +41,6 @@ Alternate Hypothesis: There is a relationship between the monthly charges and th
 11. How does the length of customers' contract affect their likelihood of churn?
 12. How does the length of customers' tenure affect their likelihood of churn?
 
+## Additional Information
+
 This project was done with the aid of the Jupyter Notebook in this repository and it bears all the codes and procedures used to achieve success. The datasets for this project were collected from different sources and were also saved in this repository. The entire analytical and modelling processes are well explained in my Medium publication: https://eberedavid.medium.com/telco-churn-analysis-d463035fcbb5
