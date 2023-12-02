@@ -19,7 +19,7 @@ By comprehending the customer lifecycle and effectively identifying customers at
 ## Project Scenario
 For this project, I am the Data Scientist of a prominent telecom firm called Vodafone Corporation. I will analyze the available customer-level data of the company and build eight (8) different machine learning models with the data. These models will be tuned for optimal performance and the best model can be used to predict the likelihood of churn. I will identify the key indicators of churn, and recommend solutions to help the company achieve a decline in churn rate, high customer satisfaction and increase in customer retention/longevity.
 
-Hypothesis
+## Hypothesis
 Null Hypothesis: There is no relationship between the monthly charges and the churn of customers.
 Alternate Hypothesis: There is a relationship between the monthly charges and the churn of customers.
 
