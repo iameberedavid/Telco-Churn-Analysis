@@ -51,3 +51,17 @@ Alternate Hypothesis: There is a relationship between the monthly charges and th
 ## Additional Information
 
 This project was done with the aid of the Jupyter Notebook in this repository and it bears all the codes and procedures used to achieve success. The datasets for this project were collected from different sources and were also saved in this repository. The entire analytical and modelling processes are well explained in my Medium publication: https://eberedavid.medium.com/telco-churn-analysis-d463035fcbb5
+
+## Author
+
+| Name | Profile | Portfolio | Articles | Contact |
+| ---- | ------- | --------- | -------- | ------- |
+| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | chidieberedavid326@gmail.com |
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+
+For questions, feedback, and collaborations, please send a mail to: chidieberedavid326@gmail.com
